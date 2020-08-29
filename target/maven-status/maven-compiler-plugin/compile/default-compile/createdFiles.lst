@@ -1,4 +1,0 @@
-configuration\ConfigurationProperties.class
-Application.class
-database\ConnectionFactory.class
-database\exception\DatabaseException.class
